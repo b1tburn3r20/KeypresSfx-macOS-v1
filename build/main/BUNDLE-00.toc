@@ -1,0 +1,3 @@
+([('main',
+   '/Users/alejandrobermudez/Desktop/keypressfx/KeypresSfx-macOS-v1/dist/main',
+   'EXECUTABLE')],)
